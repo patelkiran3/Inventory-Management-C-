@@ -1,0 +1,116 @@
+C:\Users\Devesh\Documents\Visual Studio 2008\Projects\BillingSystem\BillingSystem\bin\Debug\BillingSystem.exe
+C:\Users\Devesh\Documents\Visual Studio 2008\Projects\BillingSystem\BillingSystem\bin\Debug\BillingSystem.pdb
+C:\Users\Devesh\Documents\Visual Studio 2008\Projects\BillingSystem\BillingSystem\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Devesh\Documents\Visual Studio 2008\Projects\BillingSystem\BillingSystem\obj\Debug\BillingSystem.AdminDashboard.resources
+C:\Users\Devesh\Documents\Visual Studio 2008\Projects\BillingSystem\BillingSystem\obj\Debug\BillingSystem.Properties.Resources.resources
+C:\Users\Devesh\Documents\Visual Studio 2008\Projects\BillingSystem\BillingSystem\obj\Debug\BillingSystem.csproj.GenerateResource.Cache
+C:\Users\Devesh\Documents\Visual Studio 2008\Projects\BillingSystem\BillingSystem\obj\Debug\BillingSystem.exe
+C:\Users\Devesh\Documents\Visual Studio 2008\Projects\BillingSystem\BillingSystem\obj\Debug\BillingSystem.pdb
+C:\Users\Devesh\Documents\Visual Studio 2008\Projects\BillingSystem\BillingSystem\bin\Debug\BillingSystem.exe.config
+C:\Users\Devesh\Documents\Visual Studio 2008\Projects\BillingSystem\BillingSystem\obj\Debug\BillingSystem.UserDashboard.resources
+C:\Users\Devesh\Documents\Visual Studio 2008\Projects\BillingSystem\BillingSystem\obj\Debug\BillingSystem.UI.frmUsers.resources
+C:\Users\Devesh\Documents\Visual Studio 2008\Projects\BillingSystem\BillingSystem\obj\Debug\BillingSystem.UI.frmLogin.resources
+C:\Users\Devesh\Documents\Visual Studio 2008\Projects\BillingSystem\BillingSystem\obj\Debug\BillingSystem.UI.frmCategories.resources
+C:\Users\Devesh\Documents\Visual Studio 2008\Projects\BillingSystem\BillingSystem\obj\Debug\BillingSystem.UI.frmProducts.resources
+C:\Users\Devesh\Documents\Visual Studio 2008\Projects\BillingSystem\BillingSystem\obj\Debug\BillingSystem.UI.frmDeaCust.resources
+C:\Users\Devesh\Documents\Visual Studio 2008\Projects\BillingSystem\BillingSystem\obj\Debug\BillingSystem.UI.frmPurchaseAndSales.resources
+C:\Users\Devesh\Documents\Visual Studio 2008\Projects\BillingSystem\BillingSystem\obj\Debug\BillingSystem.UI.frmTransactions.resources
+C:\Users\Devesh\Documents\Visual Studio 2008\Projects\BillingSystem\BillingSystem\obj\Debug\BillingSystem.UI.frmInventory.resources
+C:\Users\Devesh\Documents\Visual Studio 2008\Projects\BillingSystem\BillingSystem\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\Devesh\Documents\Visual Studio 2008\Projects\BillingSystem\BillingSystem\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\Devesh\Documents\Visual Studio 2008\Projects\BillingSystem\BillingSystem\bin\Debug\office.dll
+C:\Users\Devesh\Documents\Visual Studio 2008\Projects\BillingSystem\BillingSystem\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Users\Devesh\Documents\Visual Studio 2008\Projects\BillingSystem\BillingSystem\bin\Debug\office.xml
+C:\Users\Devesh\Documents\Visual Studio 2008\Projects\BillingSystem\BillingSystem\obj\Debug\BillingSystem.UI.Receipt.resources
+E:\Important\Project Documentation\Inventory Management Documentation\BillingSystem\BillingSystem\bin\Debug\BillingSystem.exe.config
+E:\Important\Project Documentation\Inventory Management Documentation\BillingSystem\BillingSystem\obj\Debug\BillingSystem.exe
+E:\Important\Project Documentation\Inventory Management Documentation\BillingSystem\BillingSystem\obj\Debug\BillingSystem.pdb
+E:\Important\Project Documentation\Inventory Management Documentation\BillingSystem\BillingSystem\bin\Debug\BillingSystem.exe
+E:\Important\Project Documentation\Inventory Management Documentation\BillingSystem\BillingSystem\bin\Debug\BillingSystem.pdb
+E:\Important\Project Documentation\Inventory Management Documentation\BillingSystem\BillingSystem\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+E:\Important\Project Documentation\Inventory Management Documentation\BillingSystem\BillingSystem\bin\Debug\CrystalDecisions.ReportSource.dll
+E:\Important\Project Documentation\Inventory Management Documentation\BillingSystem\BillingSystem\bin\Debug\CrystalDecisions.Shared.dll
+E:\Important\Project Documentation\Inventory Management Documentation\BillingSystem\BillingSystem\bin\Debug\CrystalDecisions.Windows.Forms.dll
+E:\Important\Project Documentation\Inventory Management Documentation\BillingSystem\BillingSystem\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\Important\Project Documentation\Inventory Management Documentation\BillingSystem\BillingSystem\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\Important\Project Documentation\Inventory Management Documentation\BillingSystem\BillingSystem\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\Important\Project Documentation\Inventory Management Documentation\BillingSystem\BillingSystem\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\Important\Project Documentation\Inventory Management Documentation\BillingSystem\BillingSystem\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\Important\Project Documentation\Inventory Management Documentation\BillingSystem\BillingSystem\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\Important\Project Documentation\Inventory Management Documentation\BillingSystem\BillingSystem\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\Important\Project Documentation\Inventory Management Documentation\BillingSystem\BillingSystem\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\Important\Project Documentation\Inventory Management Documentation\BillingSystem\BillingSystem\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\Important\Project Documentation\Inventory Management Documentation\BillingSystem\BillingSystem\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\Important\Project Documentation\Inventory Management Documentation\BillingSystem\BillingSystem\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\Important\Project Documentation\Inventory Management Documentation\BillingSystem\BillingSystem\bin\Debug\AxShockwaveFlashObjects.dll
+E:\Important\Project Documentation\Inventory Management Documentation\BillingSystem\BillingSystem\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\Important\Project Documentation\Inventory Management Documentation\BillingSystem\BillingSystem\bin\Debug\ShockwaveFlashObjects.dll
+E:\Important\Project Documentation\Inventory Management Documentation\BillingSystem\BillingSystem\bin\Debug\stdole.dll
+E:\Important\Project Documentation\Inventory Management Documentation\BillingSystem\BillingSystem\obj\Debug\BillingSystem.AdminDashboard.resources
+E:\Important\Project Documentation\Inventory Management Documentation\BillingSystem\BillingSystem\obj\Debug\BillingSystem.Properties.Resources.resources
+E:\Important\Project Documentation\Inventory Management Documentation\BillingSystem\BillingSystem\obj\Debug\BillingSystem.UI.frmCategories.resources
+E:\Important\Project Documentation\Inventory Management Documentation\BillingSystem\BillingSystem\obj\Debug\BillingSystem.UI.frmDeaCust.resources
+E:\Important\Project Documentation\Inventory Management Documentation\BillingSystem\BillingSystem\obj\Debug\BillingSystem.UI.frmInventory.resources
+E:\Important\Project Documentation\Inventory Management Documentation\BillingSystem\BillingSystem\obj\Debug\BillingSystem.UI.frmLogin.resources
+E:\Important\Project Documentation\Inventory Management Documentation\BillingSystem\BillingSystem\obj\Debug\BillingSystem.UI.frmProducts.resources
+E:\Important\Project Documentation\Inventory Management Documentation\BillingSystem\BillingSystem\obj\Debug\BillingSystem.UI.frmPurchaseAndSales.resources
+E:\Important\Project Documentation\Inventory Management Documentation\BillingSystem\BillingSystem\obj\Debug\BillingSystem.UI.frmTransactions.resources
+E:\Important\Project Documentation\Inventory Management Documentation\BillingSystem\BillingSystem\obj\Debug\BillingSystem.UI.frmUsers.resources
+E:\Important\Project Documentation\Inventory Management Documentation\BillingSystem\BillingSystem\obj\Debug\BillingSystem.UI.Receipt.resources
+E:\Important\Project Documentation\Inventory Management Documentation\BillingSystem\BillingSystem\obj\Debug\BillingSystem.UserDashboard.resources
+E:\Important\Project Documentation\Inventory Management Documentation\BillingSystem\BillingSystem\obj\Debug\BillingSystem.csproj.GenerateResource.Cache
+E:\Important\Project Documentation\Inventory Management Documentation\BillingSystem\BillingSystem\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\Important\Project Documentation\Inventory Management Documentation\BillingSystem\BillingSystem\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\Important\Project Documentation\Inventory Management Documentation\BillingSystem\BillingSystem\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+E:\Important\Project Documentation\Inventory Management Documentation\BillingSystem\BillingSystem\bin\Debug\BillingSystem.exe.manifest
+E:\Important\Project Documentation\Inventory Management Documentation\BillingSystem\BillingSystem\bin\Debug\BillingSystem.application
+E:\Important\Project Documentation\Inventory Management Documentation\BillingSystem\BillingSystem\obj\Debug\BillingSystem.exe.manifest
+E:\Important\Project Documentation\Inventory Management Documentation\BillingSystem\BillingSystem\obj\Debug\BillingSystem.application
+E:\Important\Project Documentation\Inventory Management Documentation\BillingSystem\BillingSystem\bin\Debug\UI\XMLFile1.xml
+E:\Important\Project Documentation\Inventory Management Documentation\BillingSystem\BillingSystem\obj\Debug\BillingSystem.csprojResolveAssemblyReference.cache
+E:\Important\TYBCA Project\Inventory Management Documentation\BillingSystem\BillingSystem\bin\Debug\BillingSystem.exe.config
+E:\Important\TYBCA Project\Inventory Management Documentation\BillingSystem\BillingSystem\obj\Debug\BillingSystem.exe
+E:\Important\TYBCA Project\Inventory Management Documentation\BillingSystem\BillingSystem\obj\Debug\BillingSystem.pdb
+E:\Important\TYBCA Project\Inventory Management Documentation\BillingSystem\BillingSystem\bin\Debug\UI\XMLFile1.xml
+E:\Important\TYBCA Project\Inventory Management Documentation\BillingSystem\BillingSystem\bin\Debug\BillingSystem.exe.manifest
+E:\Important\TYBCA Project\Inventory Management Documentation\BillingSystem\BillingSystem\bin\Debug\BillingSystem.application
+E:\Important\TYBCA Project\Inventory Management Documentation\BillingSystem\BillingSystem\bin\Debug\BillingSystem.exe
+E:\Important\TYBCA Project\Inventory Management Documentation\BillingSystem\BillingSystem\bin\Debug\BillingSystem.pdb
+E:\Important\TYBCA Project\Inventory Management Documentation\BillingSystem\BillingSystem\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+E:\Important\TYBCA Project\Inventory Management Documentation\BillingSystem\BillingSystem\bin\Debug\CrystalDecisions.ReportSource.dll
+E:\Important\TYBCA Project\Inventory Management Documentation\BillingSystem\BillingSystem\bin\Debug\CrystalDecisions.Shared.dll
+E:\Important\TYBCA Project\Inventory Management Documentation\BillingSystem\BillingSystem\bin\Debug\CrystalDecisions.Windows.Forms.dll
+E:\Important\TYBCA Project\Inventory Management Documentation\BillingSystem\BillingSystem\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\Important\TYBCA Project\Inventory Management Documentation\BillingSystem\BillingSystem\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\Important\TYBCA Project\Inventory Management Documentation\BillingSystem\BillingSystem\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\Important\TYBCA Project\Inventory Management Documentation\BillingSystem\BillingSystem\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\Important\TYBCA Project\Inventory Management Documentation\BillingSystem\BillingSystem\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\Important\TYBCA Project\Inventory Management Documentation\BillingSystem\BillingSystem\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\Important\TYBCA Project\Inventory Management Documentation\BillingSystem\BillingSystem\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\Important\TYBCA Project\Inventory Management Documentation\BillingSystem\BillingSystem\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\Important\TYBCA Project\Inventory Management Documentation\BillingSystem\BillingSystem\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\Important\TYBCA Project\Inventory Management Documentation\BillingSystem\BillingSystem\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\Important\TYBCA Project\Inventory Management Documentation\BillingSystem\BillingSystem\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\Important\TYBCA Project\Inventory Management Documentation\BillingSystem\BillingSystem\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\Important\TYBCA Project\Inventory Management Documentation\BillingSystem\BillingSystem\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\Important\TYBCA Project\Inventory Management Documentation\BillingSystem\BillingSystem\bin\Debug\AxShockwaveFlashObjects.dll
+E:\Important\TYBCA Project\Inventory Management Documentation\BillingSystem\BillingSystem\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\Important\TYBCA Project\Inventory Management Documentation\BillingSystem\BillingSystem\bin\Debug\ShockwaveFlashObjects.dll
+E:\Important\TYBCA Project\Inventory Management Documentation\BillingSystem\BillingSystem\bin\Debug\stdole.dll
+E:\Important\TYBCA Project\Inventory Management Documentation\BillingSystem\BillingSystem\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+E:\Important\TYBCA Project\Inventory Management Documentation\BillingSystem\BillingSystem\obj\Debug\BillingSystem.csprojResolveAssemblyReference.cache
+E:\Important\TYBCA Project\Inventory Management Documentation\BillingSystem\BillingSystem\obj\Debug\BillingSystem.AdminDashboard.resources
+E:\Important\TYBCA Project\Inventory Management Documentation\BillingSystem\BillingSystem\obj\Debug\BillingSystem.Properties.Resources.resources
+E:\Important\TYBCA Project\Inventory Management Documentation\BillingSystem\BillingSystem\obj\Debug\BillingSystem.UI.frmCategories.resources
+E:\Important\TYBCA Project\Inventory Management Documentation\BillingSystem\BillingSystem\obj\Debug\BillingSystem.UI.frmDeaCust.resources
+E:\Important\TYBCA Project\Inventory Management Documentation\BillingSystem\BillingSystem\obj\Debug\BillingSystem.UI.frmInventory.resources
+E:\Important\TYBCA Project\Inventory Management Documentation\BillingSystem\BillingSystem\obj\Debug\BillingSystem.UI.frmLogin.resources
+E:\Important\TYBCA Project\Inventory Management Documentation\BillingSystem\BillingSystem\obj\Debug\BillingSystem.UI.frmProducts.resources
+E:\Important\TYBCA Project\Inventory Management Documentation\BillingSystem\BillingSystem\obj\Debug\BillingSystem.UI.frmPurchaseAndSales.resources
+E:\Important\TYBCA Project\Inventory Management Documentation\BillingSystem\BillingSystem\obj\Debug\BillingSystem.UI.frmTransactions.resources
+E:\Important\TYBCA Project\Inventory Management Documentation\BillingSystem\BillingSystem\obj\Debug\BillingSystem.UI.frmUsers.resources
+E:\Important\TYBCA Project\Inventory Management Documentation\BillingSystem\BillingSystem\obj\Debug\BillingSystem.UI.Receipt.resources
+E:\Important\TYBCA Project\Inventory Management Documentation\BillingSystem\BillingSystem\obj\Debug\BillingSystem.UserDashboard.resources
+E:\Important\TYBCA Project\Inventory Management Documentation\BillingSystem\BillingSystem\obj\Debug\BillingSystem.csproj.GenerateResource.Cache
+E:\Important\TYBCA Project\Inventory Management Documentation\BillingSystem\BillingSystem\obj\Debug\BillingSystem.exe.manifest
+E:\Important\TYBCA Project\Inventory Management Documentation\BillingSystem\BillingSystem\obj\Debug\BillingSystem.application
